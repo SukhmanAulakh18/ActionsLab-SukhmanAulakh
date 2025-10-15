@@ -16,3 +16,4 @@ public class Calculator {
         System.out.println("5 - 2 = " + calc.subtract(5, 2));
     }
 }
+// Small change to trigger CI run
